@@ -1,3 +1,5 @@
+Please visit : [Todo App](https://suraj-kumbhar.github.io/todo-react/) for the hosted app.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
