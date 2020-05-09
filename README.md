@@ -1,5 +1,7 @@
 Please visit : [Todo App](https://suraj-kumbhar.github.io/todo-react/) for the hosted app.
 
+[![Run on Repl.it](https://repl.it/badge/github/suraj-kumbhar/todo-react)](https://repl.it/github/suraj-kumbhar/todo-react)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
